@@ -17,4 +17,4 @@
 - `s08_2_check_copy_confusion_matrix.py`. check and copy
 
 ## 3. calculate feature similarity
-- `s9_check_copy_confusion_matrix.py`
+- `s09_calculate_feature_similarity.py`
